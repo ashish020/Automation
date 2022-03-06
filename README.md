@@ -20,6 +20,6 @@ step2 : need to install wget package
        -conda install -c conda-forge python-wget
 After step2 save and restart the kernel 
 
-Now create the new python file and use the attached code file and try to implement it . 
+Now create the new python file and use the attached code file ( WebScraping Instagram Automation) and try to implement it . 
 || ALL THE BEST ||
        
